@@ -4,10 +4,8 @@
     <list default="true" id="7a5cd3d8-340f-4be9-badb-a42e457e27f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/achieve.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/achieve.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ruby-version" beforeDir="false" afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/deploy.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/deploy.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +152,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589593295195</updated>
-      <workItem from="1589593297160" duration="3603000" />
+      <workItem from="1589593297160" duration="6043000" />
     </task>
     <task id="LOCAL-00001" summary="EC2test用">
       <created>1589597208684</created>
@@ -170,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589597584957</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix cap">
+      <created>1589599812875</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589599812875</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,10 +187,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="fix cap" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="166" key="CommitChangelistDialog2" timestamp="1589597584855">
-      <screen x="0" y="23" width="1680" height="963" />
+    <state x="0" y="166" key="CommitChangelistDialog2" timestamp="1589599812763">
+      <screen x="0" y="23" width="1680" height="965" />
     </state>
     <state x="0" y="166" key="CommitChangelistDialog2/0.23.1680.963@0.23.1680.963" timestamp="1589597584855" />
+    <state x="0" y="166" key="CommitChangelistDialog2/0.23.1680.965@0.23.1680.965" timestamp="1589599812763" />
+    <state x="0" y="165" key="DiffContextDialog" timestamp="1589599804286">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="0" y="165" key="DiffContextDialog/0.23.1680.965@0.23.1680.965" timestamp="1589599804286" />
     <state width="566" height="190" key="GridCell.Tab.0.bottom" timestamp="1589593347605">
       <screen x="0" y="23" width="1680" height="963" />
     </state>

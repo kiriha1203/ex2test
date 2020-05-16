@@ -73,3 +73,6 @@ group :development, :test do
   gem 'capistrano3-unicorn'
 end
 
+gem 'ed25519'
+gem 'bcrypt_pbkdf'
+
