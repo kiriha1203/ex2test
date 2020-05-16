@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a5cd3d8-340f-4be9-badb-a42e457e27f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/unicorn/production.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/unicorn/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/unicorn/production.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -142,18 +150,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589593295195</updated>
-      <workItem from="1589593297160" duration="1645000" />
+      <workItem from="1589593297160" duration="1908000" />
     </task>
+    <task id="LOCAL-00001" summary="EC2test用">
+      <created>1589597208684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589597208685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="EC2test用" />
+    <option name="LAST_COMMIT_MESSAGE" value="EC2test用" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="166" key="CommitChangelistDialog2" timestamp="1589597180004">
+    <state x="0" y="166" key="CommitChangelistDialog2" timestamp="1589597208554">
       <screen x="0" y="23" width="1680" height="963" />
     </state>
-    <state x="0" y="166" key="CommitChangelistDialog2/0.23.1680.963@0.23.1680.963" timestamp="1589597180004" />
+    <state x="0" y="166" key="CommitChangelistDialog2/0.23.1680.963@0.23.1680.963" timestamp="1589597208554" />
     <state width="566" height="190" key="GridCell.Tab.0.bottom" timestamp="1589593347605">
       <screen x="0" y="23" width="1680" height="963" />
     </state>

@@ -1,4 +1,3 @@
-
 $worker  = 2
 $timeout = 30
 #自分のアプリケーション名（currentがつくことに注意）
